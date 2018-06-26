@@ -1,0 +1,4 @@
+data/
+!data/parse_dataset.py
+*.pyc
+.DS_Store
